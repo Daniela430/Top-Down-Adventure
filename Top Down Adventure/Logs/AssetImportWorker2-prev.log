@@ -348,3 +348,11 @@ Received Import Request.
 Start importing Assets/Settings/Art/WallkingDown.anim using Guid(a0970aad7cc4e864aa5c4673af2bfc44) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd37cbec9a6560b1912d3a487fb8a5e6b') in 0.0327765 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
+========================================================================
+Received Import Request.
+  Time since last request: 41199.977990 seconds.
+  path: Assets/Settings/Art/Player.controller
+  artifactKey: Guid(73a80a21f13d71443861a84e35047a60) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/Art/Player.controller using Guid(73a80a21f13d71443861a84e35047a60) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9e41fb585487b77493a272a57f0f5f0a') in 0.3914109 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
